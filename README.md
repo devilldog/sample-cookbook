@@ -4,7 +4,4 @@ updated to something more reasonable
 auto builds not working 
 adding lots of data ...
 woot
-woot
-woot
-woot
-woot
+syntax check
