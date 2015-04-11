@@ -1,5 +1,3 @@
-woot
-syntax check
 gain
 and
 again
